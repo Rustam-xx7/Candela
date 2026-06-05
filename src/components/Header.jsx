@@ -43,7 +43,7 @@ export default function Header() {
             {/* Brand Logo */}
             <Link href="/" className="group flex flex-col justify-center">
               <span className="font-serif text-2xl font-semibold tracking-widest text-[#2C1810] group-hover:text-espresso transition-colors duration-300">
-                Aura & Wick
+                Venso Candles
               </span>
               <span className="text-[9px] tracking-[0.25em] text-stone-400 uppercase font-medium mt-0.5">
                 Handcrafted Serenity
