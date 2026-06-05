@@ -24,7 +24,7 @@ export default function Footer() {
           {/* Column 1: Brand Info */}
           <div className="space-y-4">
             <h3 className="font-serif text-xl font-semibold tracking-widest text-[#2C1810]">
-              Aura & Wick
+              Venso Candle
             </h3>
             <p className="text-sm text-stone-500 leading-relaxed max-w-sm">
               Handcrafted for serenity. Our candles are poured in small batches using the finest sustainable wax and pure essential oils, meticulously crafted to transform your space into a sanctuary of calm.
@@ -153,7 +153,7 @@ export default function Footer() {
         {/* Bottom Section */}
         <div className="border-t border-stone-200/80 pt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-stone-400">
           <p className="mb-4 sm:mb-0">
-            &copy; 2026 Aura & Wick. Handcrafted for serenity.
+            &copy; 2026 Venso Candle. Handcrafted for serenity.
           </p>
           <div className="flex space-x-6">
             <Link href="/#shipping-returns" className="hover:text-espresso transition-colors duration-300">

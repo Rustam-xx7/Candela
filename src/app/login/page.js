@@ -79,7 +79,7 @@ export default function LoginPage() {
         {/* Brand name at top (Mobile / Desktop top) */}
         <div className="flex justify-between items-center">
           <Link href="/" className="font-serif text-xl font-semibold tracking-widest text-[#2C1810]">
-            Aura & Wick
+            Venso Candle
           </Link>
           <Link href="/" className="text-xs text-stone-400 hover:text-espresso transition-colors">
             Back to Home
@@ -222,7 +222,7 @@ export default function LoginPage() {
 
           {/* Signup Option */}
           <div className="text-center text-xs text-stone-500 pt-2">
-            New to Aura & Wick?{" "}
+            New to Venso Candle?{" "}
             <Link href="#" onClick={() => alert("Account registration is disabled in this mockup.")} className="text-espresso font-semibold hover:underline underline-offset-4">
               Create an account
             </Link>
@@ -232,7 +232,7 @@ export default function LoginPage() {
 
         {/* Bottom copyright (Right footer align) */}
         <div className="border-t border-stone-200/50 pt-6 flex justify-between items-center text-[10px] tracking-wider text-stone-400 uppercase">
-          <span>&copy; 2026 Aura & Wick</span>
+          <span>&copy; 2026 Venso Candle</span>
           <span>Handcrafted for Serenity</span>
         </div>
 

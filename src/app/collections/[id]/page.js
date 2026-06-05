@@ -328,7 +328,7 @@ export default function ProductDetailPage() {
                   Handcrafted for Serenity
                 </h2>
                 <p className="text-sm text-stone-600 leading-relaxed">
-                  We believe your home should be a sanctuary. Each Aura & Wick candle is crafted using a proprietary blend of sustainably sourced coconut and apricot wax, premium fragrance oils, and lead-free cotton wicks.
+                  We believe your home should be a sanctuary. Each Venso Candle is crafted using a proprietary blend of sustainably sourced coconut and apricot wax, premium fragrance oils, and lead-free cotton wicks.
                 </p>
                 <p className="text-sm text-stone-600 leading-relaxed">
                   Our '{product.name}' blend is specifically formulated to promote neuro-aesthetic harmony. By combining the sweetness of organic notes with deep herbal or woody foundations, we've created a scent that literally helps lower the heart rate and clear the mind.

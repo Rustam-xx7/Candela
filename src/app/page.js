@@ -65,7 +65,7 @@ export default function LandingPage() {
               <div className="relative w-full max-w-xl aspect-[4/3] rounded-2xl overflow-hidden shadow-xl border border-stone-200/30">
                 <Image
                   src="/images/hero-candle.png"
-                  alt="Aura & Wick Lit Honey Scented Candle"
+                  alt="Venso Candle Lit Honey Scented Candle"
                   fill
                   priority
                   sizes="(max-width: 1024px) 100vw, 60vw"
@@ -106,7 +106,7 @@ export default function LandingPage() {
             </h2>
             <div className="space-y-4 text-sm text-stone-600 leading-relaxed">
               <p>
-                Aura & Wick was founded on the belief that a candle is more than just a source of light; it is a sensory link to the present moment. We treat every candle as a piece of functional art, balancing ancient craftsmanship with atmospheric function.
+                Venso Candle was founded on the belief that a candle is more than just a source of light; it is a sensory link to the present moment. We treat every candle as a piece of functional art, balancing ancient craftsmanship with atmospheric function.
               </p>
               <p>
                 Our proprietary beeswax and coconut blend ensures a clean, lingering burn that honors the environment as much as your interior space. We use only lead-free cotton wicks and carefully sourced essential oils to ensure your safety and absolute peace of mind.
