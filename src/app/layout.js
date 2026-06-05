@@ -19,7 +19,7 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "Aura & Wick | Handcrafted Candles & Scent Rituals",
+  title: "Venso Candles | Handcrafted Candles & Scent Rituals",
   description: "Experience the art of living with our artisanal beeswax blends, meticulously crafted to transform your space into a sanctuary of calm.",
 };
 
